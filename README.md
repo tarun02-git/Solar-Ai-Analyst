@@ -23,8 +23,7 @@ An intelligent system that analyzes rooftops from satellite imagery to provide s
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/solar-industry-ai-assistant.git
-   cd solar-industry-ai-assistant
+   git clone https://github.com/tarun02-git/Solar-Ai-Analyst.git
    ```
 
 2. Create and activate a virtual environment:
